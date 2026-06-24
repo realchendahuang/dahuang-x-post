@@ -196,6 +196,5 @@
 不管：
 
 - 正文结构和 Hook 矩阵 → `references/viral-post-playbook.md`
-- 主帖/首评分工、外链、评论区承接、爆帖二次利用 → `references/distribution-loop.md`
 - Thread 形态 → `references/thread-playbook.md`
 - 平台字符/媒体限制 → `references/platform-rules.md`

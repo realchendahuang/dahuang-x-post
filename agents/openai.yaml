@@ -1,25 +1,20 @@
 interface:
   display_name: "Dahuang X Post"
-  short_description: "把中文内容改造成更适合 X 信息流的帖子——主帖、首评、复用角度"
-  default_prompt: "Use $dahuang-x-post 把下面这段中文改造成更适合 X 信息流的帖子。先判断原稿最硬的观点、适合短帖还是 Thread，再产出：观点前置、一行一句、短句高密度，按需给主帖、首评和复用角度："
+  short_description: "把中文内容改成符合 X 爆帖特质的帖子——判断前置、一行一句、扫读无阻力"
+  default_prompt: "Use $dahuang-x-post 把下面这段中文改成符合 X 爆帖特质的帖子。先判断原稿最硬的观点、适合短帖还是 Thread，再产出：观点前置、一行一句、短句高密度，链接直接放帖子里："
 capabilities:
   - rewrite: 把中文观点/长文/项目更新/复盘改成 X 短帖（重排信息结构：判断前置、铺垫后置）
   - thread: 拆 Thread（每条独立可转发，连续推进）
-  - comment: 配首评和评论区承接（链接/仓库/证据后置）
-  - reuse: 给爆帖复用角度（一条内容发不止一次）
   - variants: 给多个开头/版本让用户选（直给判断/结果感/反常识等）
-  - full-pack: 爆帖化完整包（主帖+首评+评论区补充+后续复用）
-  - diagnose: 只诊断不改，输出诊断卡（最硬判断/候选第一行/可删背景/形态建议/最小改法）
   - anatomy: 判断爆款潜质（核心判断句 + 8 特征 + 公式）
 resources:
   entry: SKILL.md
   references:
     - references/dahuang-style.md
     - references/viral-post-playbook.md
+    - references/viral-post-anatomy.md
     - references/thread-playbook.md
-    - references/distribution-loop.md
     - references/platform-rules.md
     - references/examples-before-after.md
-    - references/viral-post-anatomy.md
 policy:
   allow_implicit_invocation: true
