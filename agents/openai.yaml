@@ -1,0 +1,6 @@
+interface:
+  display_name: "Dahuang X Post"
+  short_description: "把中文内容改造成更适合 X 信息流的短帖、Thread、首评和复用角度"
+  default_prompt: "Use $dahuang-x-post 把下面这段中文改造成更适合 X 信息流的帖子。先判断原稿最硬的观点是什么、适合短帖还是 Thread，再产出：观点前置、一行一句、短句高密度，按需给主帖、首评和复用角度："
+policy:
+  allow_implicit_invocation: true
