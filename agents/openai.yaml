@@ -1,6 +1,21 @@
 interface:
   display_name: "Dahuang X Post"
-  short_description: "把中文内容改造成更适合 X 信息流的短帖、Thread、首评和复用角度"
-  default_prompt: "Use $dahuang-x-post 把下面这段中文改造成更适合 X 信息流的帖子。先判断原稿最硬的观点是什么、适合短帖还是 Thread，再产出：观点前置、一行一句、短句高密度，按需给主帖、首评和复用角度："
+  short_description: "把中文内容改造成更适合 X 信息流的帖子——主帖、首评、复用角度"
+  default_prompt: "Use $dahuang-x-post 把下面这段中文改造成更适合 X 信息流的帖子。先判断原稿最硬的观点、适合短帖还是 Thread，再产出：观点前置、一行一句、短句高密度，按需给主帖、首评和复用角度："
+capabilities:
+  - rewrite: 把中文观点/长文/项目更新/复盘改成 X 短帖（重排信息结构，不是润色）
+  - thread: 拆 Thread（每条独立可转发，连续推进）
+  - comment: 配首评和评论区承接（链接/仓库/证据后置）
+  - reuse: 给爆帖复用角度（一条内容发不止一次）
+  - diagnose: 只诊断不改（标出为什么不像 X、最小改法）
+resources:
+  entry: SKILL.md
+  references:
+    - references/dahuang-style.md
+    - references/viral-post-playbook.md
+    - references/thread-playbook.md
+    - references/distribution-loop.md
+    - references/platform-rules.md
+    - references/examples-before-after.md
 policy:
   allow_implicit_invocation: true
