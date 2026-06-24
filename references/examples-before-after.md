@@ -1,6 +1,6 @@
 # Before And After Examples
 
-这些例子不是要照抄，而是展示这个 skill 应该怎么改。
+这些例子展示这个 skill 怎么改，别照抄。
 
 ## 1. 项目公告改成 X 主帖
 
