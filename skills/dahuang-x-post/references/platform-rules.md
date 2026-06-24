@@ -7,11 +7,11 @@
 ## 基础限制
 
 - 普通 Post 可包含文字、链接、图片、GIF、视频。
-- 普通 Post 常规上限是 280 characters。
+- 普通 Post 常规上限是 280 characters，但用这个 skill 的用户都是 Premium，有 Longer post 额度，不按 280 限制写。
 - 单条 Post 最多 4 个媒体项。
 - Thread 可以一次写多条再统一发布，也可以发布后继续追加。
 - 超出字符限制时，X 会高亮超出部分。
-- Longer posts 属于 Premium 能力。X Help 页面出现过 4,000 与 25,000 characters 两种说明，精确值以当前官方页面为准。skill 默认同时出短版（≤280）和长版（不卡字数），由用户按自己账号权限选发哪个，不需要先问用户是不是 Premium。
+- Longer posts 属于 Premium 能力。X Help 页面出现过 4,000 与 25,000 characters 两种说明，精确值以当前官方页面为准。
 - Edit Post 属于 Premium 能力，当前官方说明原创 Post 和 Quote 有 1 小时窗口、最多 5 次编辑，但 Threads、Replies、Promoted posts、Polls、Pinned posts、第三方服务发布等存在限制。
 - Articles 属于长文形态，面向 Premium / Premium+ / Business / Organizations 等用户。
 
