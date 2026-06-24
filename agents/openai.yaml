@@ -6,7 +6,7 @@ capabilities:
   - rewrite: 把中文观点/长文/项目更新/复盘改成 X 短帖（重排信息结构：判断前置、铺垫后置）
   - thread: 拆 Thread（每条独立可转发，连续推进）
   - variants: 给多个开头/版本让用户选（直给判断/结果感/反常识等）
-  - anatomy: 判断爆款潜质（核心判断句 + 7 特征 + 注意事项 + 公式）
+  - anatomy: 判断爆款潜质（核心三件事 + 8 特征 + 7 因子公式 + 发前 7 问）
 resources:
   entry: SKILL.md
   references:
