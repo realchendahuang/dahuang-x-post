@@ -7,7 +7,9 @@ capabilities:
   - thread: 拆 Thread（每条独立可转发，连续推进）
   - comment: 配首评和评论区承接（链接/仓库/证据后置）
   - reuse: 给爆帖复用角度（一条内容发不止一次）
-  - diagnose: 只诊断不改（标出为什么不像 X、最小改法）
+  - variants: 给多个开头/版本让用户选（直给判断/结果感/反常识等）
+  - full-pack: 爆帖化完整包（主帖+首评+评论区补充+后续复用）
+  - diagnose: 只诊断不改，输出诊断卡（最硬判断/候选第一行/可删背景/形态建议/最小改法）
 resources:
   entry: SKILL.md
   references:
