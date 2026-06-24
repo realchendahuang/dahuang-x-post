@@ -54,7 +54,7 @@ dahuang-x-post/
     └── dahuang-x-post/
         ├── SKILL.md                      # 入口：改写工作流（给模型读）
         ├── references/                   # 按需加载的详细文档
-        │   ├── dahuang-style.md          # 中文 X 语感规则（观点前置/一行一句/去爹味/禁用壳/中英混排）
+        │   ├── dahuang-style.md          # 中文 X 语感规则（观点前置/一行一句/去爹味/禁用壳/防AI腔/中英混排）
         │   ├── viral-post-playbook.md    # Hook 矩阵、可传播判断、爆帖化正文结构、坏稿改法
         │   ├── viral-post-anatomy.md     # 爆款潜质判断（核心三件事+8特征+7因子公式+发前7问）
         │   ├── thread-playbook.md        # 什么时候写 Thread、第一条怎么写、7 种 Thread 类型
