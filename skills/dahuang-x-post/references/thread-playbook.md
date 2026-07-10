@@ -4,6 +4,16 @@ Thread 不是长文切片。
 
 Thread 是一组能独立传播、又能连续推进的短帖。
 
+## 目录
+
+1. 什么时候写 Thread
+2. Lead-in 第一条
+3. 主体写法
+4. Thread 类型
+5. TL;DR
+6. CTA
+7. 发布前检查
+
 ## 1. 什么时候写 Thread
 
 适合写 Thread：
