@@ -1,8 +1,11 @@
 # Dahuang X Post
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Skill Version](https://img.shields.io/badge/Skill-v3.0.0-111827.svg)](CHANGELOG.md)
-[![Platform](https://img.shields.io/badge/Platform-X-000000.svg)](skills/dahuang-x-post/SKILL.md)
+[![GitHub stars](https://img.shields.io/github/stars/realchendahuang/dahuang-x-post?style=social)](https://github.com/realchendahuang/dahuang-x-post)
+[![GitHub forks](https://img.shields.io/github/forks/realchendahuang/dahuang-x-post?style=social)](https://github.com/realchendahuang/dahuang-x-post/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/realchendahuang/dahuang-x-post)](https://github.com/realchendahuang/dahuang-x-post/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/realchendahuang/dahuang-x-post/pulls)
+[![Follow @realchendahuang](https://img.shields.io/badge/Follow-%40realchendahuang-1DA1F2?logo=x&logoColor=white)](https://x.com/realchendahuang)
 
 > 把中文想法、项目更新和复盘改成更适合 X 信息流的帖子：判断前置、一行一句、结构紧、第一屏能让人停下来。
 
